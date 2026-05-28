@@ -1,7 +1,7 @@
 {
   "Emergency-Hamburg": {
     "stability": "98%",
-    "detection": "Low",
+    "detection": "High",
     "updated": "2d ago",
     "features": 14,
     "status": "Online",
