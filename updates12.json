@@ -1,36 +1,191 @@
 {
-  "Emergency-Hamburg": {
-    "stability": "98%",
-    "detection": "High",
-    "updated": "2d ago",
-    "features": 14,
-    "status": "Online",
-    "changelog": [
-      {
-        "version": "V.3.82",
-        "date": "2d ago",
-        "notes": "Fixed Aimlock prediction. Improved ESP render distance."
-      }
-    ]
-  },
-
-  "Dummys-vs-Noobs": {
-    "stability": "70%",
-    "detection": "Medium",
-    "updated": "Today",
-    "features": 3,
-    "status": "Online",
-    "changelog": [
-      {
-        "version": "V.1.1",
-        "date": "Today",
-        "notes": "Re-enabled basic features."
-      },
-      {
-        "version": "V.1",
-        "date": "Old",
-        "notes": "Initial release."
-      }
-    ]
+  "scripts": {
+    "Emergency-Hamburg": {
+      "displayName": "Emergency Hamburg",
+      "id": "rbxassetid://75852824369394",
+      "description": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC.",
+      "tags": ["Paid", "V.3.82", "LVL 4-8"],
+      "stability": "98%",
+      "detection": "Low",
+      "updated": "2d ago",
+      "features": 14,
+      "status": "Online",
+      "changelog": [
+        {
+          "version": "V.3.82",
+          "date": "2d ago",
+          "notes": "Fixed Aimlock prediction. Improved ESP render distance. Added Designate Nearest button."
+        },
+        {
+          "version": "V.3.81",
+          "date": "5d ago",
+          "notes": "Patched detection bypass for latest game update. Minor UI fixes."
+        },
+        {
+          "version": "V.3.80",
+          "date": "12d ago",
+          "notes": "Added Multi-Lock support. Stability improvements."
+        },
+        {
+          "version": "V.3.79",
+          "date": "20d ago",
+          "notes": "Initial public release."
+        }
+      ]
+    },
+    "War-Tycoon": {
+      "displayName": "War Tycoon",
+      "id": "rbxassetid://78928627534817",
+      "description": "Not working.",
+      "tags": ["Free", "V.1", "LVL 4-8"],
+      "stability": "-",
+      "detection": "-",
+      "updated": "-",
+      "features": 0,
+      "status": "Offline",
+      "changelog": [
+        {
+          "version": "V.1",
+          "date": "-",
+          "notes": "Currently not working. Update pending."
+        }
+      ]
+    },
+    "Combat-Initiation": {
+      "displayName": "Combat Initiation",
+      "id": "rbxassetid://77717857050618",
+      "description": "Not working.",
+      "tags": ["Free", "V.1", "LVL 4-8"],
+      "stability": "-",
+      "detection": "-",
+      "updated": "-",
+      "features": 0,
+      "status": "Offline",
+      "changelog": [
+        {
+          "version": "V.1",
+          "date": "-",
+          "notes": "Currently not working. Update pending."
+        }
+      ]
+    },
+    "Dummys-vs-Noobs": {
+      "displayName": "Dummys vs Noobs",
+      "id": "rbxassetid://112363873798639",
+      "description": "Not working.",
+      "tags": ["Free", "V.1", "LVL 4-8"],
+      "stability": "-",
+      "detection": "-",
+      "updated": "-",
+      "features": 0,
+      "status": "Offline",
+      "changelog": [
+        {
+          "version": "V.1",
+          "date": "-",
+          "notes": "Currently not working. Update pending."
+        }
+      ]
+    },
+    "Cold-War": {
+      "displayName": "Cold War",
+      "id": "rbxassetid://133691627136111",
+      "description": "Not working.",
+      "tags": ["Free", "V.1", "LVL 4-8"],
+      "stability": "-",
+      "detection": "-",
+      "updated": "-",
+      "features": 0,
+      "status": "Offline",
+      "changelog": [
+        {
+          "version": "V.1",
+          "date": "-",
+          "notes": "Currently not working. Update pending."
+        }
+      ]
+    },
+    "ESP-Utility": {
+      "displayName": "ESP Utility",
+      "id": "rbxassetid://7072706620",
+      "description": "Not working.",
+      "tags": ["Free", "V.1", "LVL 4-8"],
+      "stability": "-",
+      "detection": "-",
+      "updated": "-",
+      "features": 0,
+      "status": "Offline",
+      "changelog": [
+        {
+          "version": "V.1",
+          "date": "-",
+          "notes": "Currently not working. Update pending."
+        }
+      ]
+    },
+    "Script-Dumper": {
+      "displayName": "Script Dumper",
+      "id": "rbxassetid://7072706620",
+      "description": "Dumps LocalScripts from the game.",
+      "tags": ["Dump"],
+      "stability": "95%",
+      "detection": "Medium",
+      "updated": "7d ago",
+      "features": 3,
+      "status": "Online",
+      "changelog": [
+        {
+          "version": "V.1",
+          "date": "7d ago",
+          "notes": "Initial release. Basic LocalScript dumping."
+        }
+      ]
+    },
+    "Owl-Hub": {
+      "displayName": "Owl Hub",
+      "id": "rbxassetid://7072706620",
+      "description": "Multi-game hub with auto-detection.",
+      "tags": ["Hub"],
+      "stability": "90%",
+      "detection": "Medium",
+      "updated": "3d ago",
+      "features": 20,
+      "status": "Online",
+      "changelog": [
+        {
+          "version": "V.2",
+          "date": "3d ago",
+          "notes": "Added auto-detection for 5 new games."
+        },
+        {
+          "version": "V.1",
+          "date": "14d ago",
+          "notes": "Initial release."
+        }
+      ]
+    },
+    "Aimbot-Pro": {
+      "displayName": "Aimbot Pro",
+      "id": "rbxassetid://7072706620",
+      "description": "Precision aim assistance utility.",
+      "tags": ["Aim", "Combat"],
+      "stability": "97%",
+      "detection": "Low",
+      "updated": "1d ago",
+      "features": 8,
+      "status": "Online",
+      "changelog": [
+        {
+          "version": "V.2.1",
+          "date": "1d ago",
+          "notes": "Improved FOV circle rendering. Fixed edge-case lock glitch."
+        },
+        {
+          "version": "V.2.0",
+          "date": "6d ago",
+          "notes": "Added smooth aim curve option."
+        }
+      ]
+    }
   }
 }
