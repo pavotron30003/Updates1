@@ -1,0 +1,36 @@
+{
+  "Emergency-Hamburg": {
+    "stability": "98%",
+    "detection": "Low",
+    "updated": "2d ago",
+    "features": 14,
+    "status": "Online",
+    "changelog": [
+      {
+        "version": "V.3.82",
+        "date": "2d ago",
+        "notes": "Fixed Aimlock prediction. Improved ESP render distance."
+      }
+    ]
+  },
+
+  "Dummys-vs-Noobs": {
+    "stability": "70%",
+    "detection": "Medium",
+    "updated": "Today",
+    "features": 3,
+    "status": "Online",
+    "changelog": [
+      {
+        "version": "V.1.1",
+        "date": "Today",
+        "notes": "Re-enabled basic features."
+      },
+      {
+        "version": "V.1",
+        "date": "Old",
+        "notes": "Initial release."
+      }
+    ]
+  }
+}
