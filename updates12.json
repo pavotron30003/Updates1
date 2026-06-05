@@ -33,6 +33,7 @@
         }
       ]
     },
+
     "War-Tycoon": {
       "displayName": "War Tycoon",
       "id": "rbxassetid://78928627534817",
@@ -51,6 +52,7 @@
         }
       ]
     },
+
     "Combat-Initiation": {
       "displayName": "Combat Initiation",
       "id": "rbxassetid://77717857050618",
@@ -69,6 +71,7 @@
         }
       ]
     },
+
     "Dummys-vs-Noobs": {
       "displayName": "Dummys vs Noobs",
       "id": "rbxassetid://112363873798639",
@@ -87,6 +90,7 @@
         }
       ]
     },
+
     "Cold-War": {
       "displayName": "Cold War",
       "id": "rbxassetid://133691627136111",
@@ -105,85 +109,41 @@
         }
       ]
     },
-    "ESP-Utility": {
-      "displayName": "ESP Utility",
-      "id": "rbxassetid://7072706620",
-      "description": "Not working.",
-      "tags": ["Free", "V.1", "LVL 4-8"],
-      "stability": "-",
-      "detection": "-",
-      "updated": "-",
-      "features": 0,
-      "status": "Offline",
-      "changelog": [
-        {
-          "version": "V.1",
-          "date": "-",
-          "notes": "Currently not working. Update pending."
-        }
-      ]
-    },
-    "Script-Dumper": {
-      "displayName": "Script Dumper",
-      "id": "rbxassetid://7072706620",
-      "description": "Dumps LocalScripts from the game.",
-      "tags": ["Dump"],
-      "stability": "95%",
+
+    "Vortex": {
+      "displayName": "Vortex",
+      "id": "rbxassetid://12345678901234",
+      "description": "Advanced EMH script with troll and utility features.",
+      "tags": ["Free", "V.1.0", "LVL 4-8"],
+      "stability": "99%",
       "detection": "Medium",
-      "updated": "7d ago",
-      "features": 3,
+      "updated": "1d ago",
+      "features": 40,
       "status": "Online",
       "changelog": [
         {
-          "version": "V.1",
-          "date": "7d ago",
-          "notes": "Initial release. Basic LocalScript dumping."
+          "version": "V.1.0",
+          "date": "1d ago",
+          "notes": "Initial release on Vanilla Systems Hub."
         }
       ]
     },
-    "Owl-Hub": {
-      "displayName": "Owl Hub",
-      "id": "rbxassetid://7072706620",
-      "description": "Multi-game hub with auto-detection.",
-      "tags": ["Hub"],
+
+    "Legal-Systems": {
+      "displayName": "Legal Systems",
+      "id": "rbxassetid://23456789012345",
+      "description": "Legal Systems is still in development and is optimized for both mobile and PC.",
+      "tags": ["Free", "V.1.0", "LVL 4-8"],
       "stability": "90%",
-      "detection": "Medium",
-      "updated": "3d ago",
-      "features": 20,
-      "status": "Online",
-      "changelog": [
-        {
-          "version": "V.2",
-          "date": "3d ago",
-          "notes": "Added auto-detection for 5 new games."
-        },
-        {
-          "version": "V.1",
-          "date": "14d ago",
-          "notes": "Initial release."
-        }
-      ]
-    },
-    "Aimbot-Pro": {
-      "displayName": "Aimbot Pro",
-      "id": "rbxassetid://7072706620",
-      "description": "Precision aim assistance utility.",
-      "tags": ["Aim", "Combat"],
-      "stability": "97%",
       "detection": "Low",
       "updated": "1d ago",
-      "features": 8,
+      "features": 10,
       "status": "Online",
       "changelog": [
         {
-          "version": "V.2.1",
+          "version": "V.1.0",
           "date": "1d ago",
-          "notes": "Improved FOV circle rendering. Fixed edge-case lock glitch."
-        },
-        {
-          "version": "V.2.0",
-          "date": "6d ago",
-          "notes": "Added smooth aim curve option."
+          "notes": "Initial release on Vanilla Systems Hub."
         }
       ]
     }
