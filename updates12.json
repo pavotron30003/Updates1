@@ -8,7 +8,7 @@
       "tags": ["Paid", "V.3.82", "LVL 4-8"],
       "stats": {
         "stability": "98%",
-        "detectionRisk": "Low",
+        "detectionRisk": "High",
         "updated": "2d ago",
         "features": "14",
         "status": "Online"
