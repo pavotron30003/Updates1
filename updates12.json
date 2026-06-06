@@ -1,8 +1,8 @@
 {
   "scripts": {
     "Emergency-Hamburg": {
-      "name": "Emergency Hamburg",
-      "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC.",
+      "name": "Sentinel",
+      "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC. (Sentinel powered by Nykron)",
       "icon": "rbxassetid://75852824369394",
       "background": "#2B1D00",
       "tags": ["Paid", "V.3.82", "LVL 4-8"],
@@ -12,11 +12,32 @@
         "updated": "2d ago",
         "features": "14",
         "status": "Online"
-      }
+        "changelog": [
+        {
+          "version": "V.3.82",
+          "date": "2d ago",
+          "notes": "Fixed Aimlock prediction. Improved ESP render distance. Added Designate Nearest button."
+        },
+        {
+          "version": "V.3.81",
+          "date": "5d ago",
+          "notes": "Patched detection bypass for latest game update. Minor UI fixes."
+        },
+        {
+          "version": "V.3.80",
+          "date": "12d ago",
+          "notes": "Added Multi-Lock support. Stability improvements."
+        },
+        {
+          "version": "V.3.79",
+          "date": "20d ago",
+          "notes": "Initial public release."
+        }
+      ]
     },
 
     "War-Tycoon": {
-      "name": "War Tycoon",
+      "name": "Varkon",
       "desc": "Currently not working.",
       "icon": "rbxassetid://78928627534817",
       "background": "#543A0A",
@@ -32,7 +53,7 @@
     },
 
     "Combat-Initiation": {
-      "name": "Combat Initiation",
+      "name": "Khaos",
       "desc": "Currently not working.",
       "icon": "rbxassetid://77717857050618",
       "background": "#54160A",
@@ -48,7 +69,7 @@
     },
 
     "Dummys-vs-Noobs": {
-      "name": "Dummys vs Noobs",
+      "name": "Fang",
       "desc": "Currently not working.",
       "icon": "rbxassetid://112363873798639",
       "background": "#5E5E5E",
@@ -64,7 +85,7 @@
     },
 
     "Cold-War": {
-      "name": "Cold War",
+      "name": "Specter",
       "desc": "Currently not working.",
       "icon": "rbxassetid://133691627136111",
       "background": "#2F3B2A",
