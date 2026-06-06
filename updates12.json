@@ -5,6 +5,7 @@
       "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC. (Sentinel powered by Nykron)",
       "icon": "rbxassetid://75852824369394",
       "background": "#2B1D00",
+      "urls": [],
       "tags": ["Paid", "V.3.82", "LVL 4-8"],
       "stats": {
         "stability": "98%",
@@ -12,7 +13,8 @@
         "updated": "2d ago",
         "features": "14",
         "status": "Online"
-        "changelog": [
+      },
+      "changelog": [
         {
           "version": "V.3.82",
           "date": "2d ago",
@@ -49,7 +51,8 @@
         "updated": "-",
         "features": "0",
         "status": "Offline"
-      }
+      },
+      "changelog": []
     },
 
     "Combat-Initiation": {
@@ -65,7 +68,8 @@
         "updated": "-",
         "features": "0",
         "status": "Offline"
-      }
+      },
+      "changelog": []
     },
 
     "Dummys-vs-Noobs": {
@@ -81,7 +85,8 @@
         "updated": "-",
         "features": "0",
         "status": "Offline"
-      }
+      },
+      "changelog": []
     },
 
     "Cold-War": {
@@ -97,7 +102,8 @@
         "updated": "-",
         "features": "0",
         "status": "Offline"
-      }
+      },
+      "changelog": []
     },
 
     "Vortex": {
@@ -113,7 +119,8 @@
         "updated": "1d ago",
         "features": "40",
         "status": "Online"
-      }
+      },
+      "changelog": []
     },
 
     "Legal-Systems": {
@@ -129,7 +136,8 @@
         "updated": "1d ago",
         "features": "10",
         "status": "Online"
-      }
+      },
+      "changelog": []
     }
   }
 }
