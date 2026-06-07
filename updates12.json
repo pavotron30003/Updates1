@@ -2,14 +2,18 @@
   "scripts": {
     "Emergency-Hamburg": {
       "name": "Sentinel",
-      "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC. (Sentinel powered by Nykron)",
+      "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC. Sentinel powered by Nykron.",
       "icon": "rbxassetid://75852824369394",
       "background": "#2B1D00",
+      "enabled": true,
+      "disabledReason": "",
+      "keySystem": "Luarmor",
+      "minExecutorLevel": 4,
       "urls": [],
       "tags": ["Paid", "V.3.82", "LVL 4-8"],
       "stats": {
         "stability": "98%",
-        "detectionRisk": "High",
+        "detectionRisk": "Low",
         "updated": "2d ago",
         "features": "14",
         "status": "Online"
@@ -37,12 +41,15 @@
         }
       ]
     },
-
     "War-Tycoon": {
       "name": "Varkon",
       "desc": "Currently not working.",
       "icon": "rbxassetid://78928627534817",
       "background": "#543A0A",
+      "enabled": false,
+      "disabledReason": "This script is currently under maintenance.",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
       "stats": {
@@ -54,12 +61,15 @@
       },
       "changelog": []
     },
-
     "Combat-Initiation": {
       "name": "Khaos",
       "desc": "Currently not working.",
       "icon": "rbxassetid://77717857050618",
       "background": "#54160A",
+      "enabled": false,
+      "disabledReason": "This script is currently disabled from remote config.",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
       "stats": {
@@ -71,12 +81,15 @@
       },
       "changelog": []
     },
-
     "Dummys-vs-Noobs": {
       "name": "Fang",
       "desc": "Currently not working.",
       "icon": "rbxassetid://112363873798639",
       "background": "#5E5E5E",
+      "enabled": false,
+      "disabledReason": "This script is not available yet.",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
       "stats": {
@@ -88,12 +101,15 @@
       },
       "changelog": []
     },
-
     "Cold-War": {
       "name": "Specter",
       "desc": "Currently not working.",
       "icon": "rbxassetid://133691627136111",
       "background": "#2F3B2A",
+      "enabled": false,
+      "disabledReason": "Update pending.",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
       "stats": {
@@ -105,13 +121,18 @@
       },
       "changelog": []
     },
-
     "Vortex": {
       "name": "Vortex",
       "desc": "Advanced EMH script with troll and utility features.",
       "icon": "rbxassetid://12345678901234",
       "background": "#1E366E",
-      "urls": [],
+      "enabled": true,
+      "disabledReason": "",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
+      "urls": [
+        "PUT_LOADSTRING_OR_RAW_URL_HERE"
+      ],
       "tags": ["Free", "V.1.0", "LVL 4-8"],
       "stats": {
         "stability": "99%",
@@ -122,13 +143,18 @@
       },
       "changelog": []
     },
-
     "Legal-Systems": {
       "name": "Legal Systems",
       "desc": "Legal Systems is still in development and is optimized for both mobile and PC.",
       "icon": "rbxassetid://23456789012345",
       "background": "#14110d",
-      "urls": [],
+      "enabled": true,
+      "disabledReason": "",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
+      "urls": [
+        "PUT_LOADSTRING_OR_RAW_URL_HERE"
+      ],
       "tags": ["Free", "V.1.0", "LVL 4-8"],
       "stats": {
         "stability": "90%",
