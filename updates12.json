@@ -131,7 +131,7 @@
       "keySystem": "None",
       "minExecutorLevel": 4,
       "urls": [
-        "PUT_LOADSTRING_OR_RAW_URL_HERE"
+        "loadstring(game:HttpGet("https://api.getvortex.vip/scripts/VortexMain"))()"
       ],
       "tags": ["Free", "V.1.0", "LVL 4-8"],
       "stats": {
@@ -153,7 +153,7 @@
       "keySystem": "None",
       "minExecutorLevel": 4,
       "urls": [
-        "PUT_LOADSTRING_OR_RAW_URL_HERE"
+        "loadstring(game:HttpGet("https://raw.githubusercontent.com/MrSxxo/data/refs/heads/main/ScriptEH"))()"
       ],
       "tags": ["Free", "V.1.0", "LVL 4-8"],
       "stats": {
