@@ -131,30 +131,6 @@
       "changelog": []
     },
 
-    "Vortex": {
-      "name": "Vortex",
-      "desc": "Advanced EMH script with troll and utility features.",
-      "icon": "rbxassetid://12345678901234",
-      "background": "#1E366E",
-      "enabled": True,
-      "disabledReason": "",
-      "keySystem": "None",
-      "minExecutorLevel": 4,
-      "matchPlaceIds": [7711635737],
-      "urls": [
-        "https://api.getvortex.vip/scripts/VortexMain"
-      ],
-      "tags": ["Free", "V.1.0", "LVL 4-8"],
-      "stats": {
-        "stability": "-",
-        "detectionRisk": "-",
-        "updated": "-",
-        "features": "40",
-        "status": "Offline"
-      },
-      "changelog": []
-    },
-
     "Legal-Systems": {
       "name": "Legal Systems",
       "desc": "Legal Systems is still in development and is optimized for both mobile and PC.",
