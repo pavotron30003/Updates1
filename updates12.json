@@ -148,6 +148,33 @@
         "status": "Online"
       },
       "changelog": []
+    },
+        "Emergency-Hamburg-Thali": {
+      "name": "Chocolatey",
+      "desc": "The destructive version of Sentinel. (Chocolatey powered by Nykron.)",
+      "icon": "rbxassetid://75852824369394",
+      "background": "#2B1D00",
+      "enabled": true,
+      "disabledReason": "",
+      "keySystem": "Luarmor",
+      "minExecutorLevel": 4,
+      "matchPlaceIds": [7711635737],
+      "urls": [],
+      "tags": ["Paid", "V.3.1", "LVL 4-8"],
+      "stats": {
+        "stability": "45%",
+        "detectionRisk": "High",
+        "updated": "193d ago",
+        "features": "40",
+        "status": "Online"
+      },
+      "changelog": [
+        {
+          "version": "V.3.0",
+          "date": "193d ago",
+          "notes": "Removed some features to make sure the script is stable to use."
+ }
+      ]
     }
   }
 }
