@@ -3,18 +3,15 @@
     "Emergency-Hamburg": {
       "name": "Sentinel",
       "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC. Sentinel powered by Nykron.",
-      "descEs": "Script para Emergency Hamburg. Aimlock, ESP, agarre rapido, ETC. Sentinel impulsado por Nykron.",
       "icon": "rbxassetid://75852824369394",
       "background": "#2B1D00",
       "enabled": true,
       "disabledReason": "",
-      "disabledReasonEs": "",
       "keySystem": "Luarmor",
       "minExecutorLevel": 4,
       "matchPlaceIds": [7711635737],
       "urls": [],
       "tags": ["Paid", "V.3.82", "LVL 4-8"],
-      "tagsEs": ["Pago", "V.3.82", "NIVEL 4-8"],
       "stats": {
         "stability": "98%",
         "detectionRisk": "Low",
@@ -26,49 +23,37 @@
         {
           "version": "V.3.82",
           "date": "2d ago",
-          "dateEs": "hace 2 dias",
-          "notes": "Fixed Aimlock prediction. Improved ESP render distance. Added Designate Nearest button.",
-          "notesEs": "Se arreglo la prediccion del Aimlock. Se mejoro la distancia de render del ESP. Se agrego el boton Designate Nearest."
+          "notes": "Fixed Aimlock prediction. Improved ESP render distance. Added Designate Nearest button."
         },
         {
           "version": "V.3.81",
           "date": "5d ago",
-          "dateEs": "hace 5 dias",
-          "notes": "Patched detection bypass for latest game update. Minor UI fixes.",
-          "notesEs": "Se parcheo el bypass de deteccion para la ultima actualizacion del juego. Pequenas correcciones de UI."
+          "notes": "Patched detection bypass for latest game update. Minor UI fixes."
         },
         {
           "version": "V.3.80",
           "date": "12d ago",
-          "dateEs": "hace 12 dias",
-          "notes": "Added Multi-Lock support. Stability improvements.",
-          "notesEs": "Se agrego soporte Multi-Lock. Mejoras de estabilidad."
+          "notes": "Added Multi-Lock support. Stability improvements."
         },
         {
           "version": "V.3.79",
           "date": "20d ago",
-          "dateEs": "hace 20 dias",
-          "notes": "Initial public release.",
-          "notesEs": "Lanzamiento publico inicial."
+          "notes": "Initial public release."
         }
       ]
     },
-
     "War-Tycoon": {
       "name": "Varkon",
       "desc": "Currently not working.",
-      "descEs": "Actualmente no funciona.",
       "icon": "rbxassetid://78928627534817",
       "background": "#543A0A",
       "enabled": false,
       "disabledReason": "Update pending.",
-      "disabledReasonEs": "Actualizacion pendiente.",
       "keySystem": "None",
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
-      "tagsEs": ["Gratis", "V.1", "NIVEL 4-8"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -78,22 +63,18 @@
       },
       "changelog": []
     },
-
     "Combat-Initiation": {
       "name": "Khaos",
       "desc": "Currently not working.",
-      "descEs": "Actualmente no funciona.",
       "icon": "rbxassetid://77717857050618",
       "background": "#54160A",
       "enabled": false,
       "disabledReason": "Update pending.",
-      "disabledReasonEs": "Actualizacion pendiente.",
       "keySystem": "None",
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
-      "tagsEs": ["Gratis", "V.1", "NIVEL 4-8"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -103,22 +84,18 @@
       },
       "changelog": []
     },
-
     "Dummys-vs-Noobs": {
       "name": "Fang",
       "desc": "Currently not working.",
-      "descEs": "Actualmente no funciona.",
       "icon": "rbxassetid://112363873798639",
       "background": "#5E5E5E",
       "enabled": false,
       "disabledReason": "Update pending.",
-      "disabledReasonEs": "Actualizacion pendiente.",
       "keySystem": "None",
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
-      "tagsEs": ["Gratis", "V.1", "NIVEL 4-8"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -128,22 +105,18 @@
       },
       "changelog": []
     },
-
     "Cold-War": {
       "name": "Specter",
       "desc": "Currently not working.",
-      "descEs": "Actualmente no funciona.",
       "icon": "rbxassetid://133691627136111",
       "background": "#2F3B2A",
       "enabled": false,
       "disabledReason": "Update pending.",
-      "disabledReasonEs": "Actualizacion pendiente.",
       "keySystem": "None",
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
       "tags": ["Free", "V.1", "LVL 4-8"],
-      "tagsEs": ["Gratis", "V.1", "NIVEL 4-8"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -153,16 +126,13 @@
       },
       "changelog": []
     },
-
     "Legal-Systems": {
       "name": "Legal Systems",
       "desc": "Legal Systems is still in development and is optimized for both mobile and PC.",
-      "descEs": "Legal Systems sigue en desarrollo y esta optimizado para movil y PC.",
       "icon": "rbxassetid://23456789012345",
       "background": "#14110d",
       "enabled": true,
       "disabledReason": "",
-      "disabledReasonEs": "",
       "keySystem": "None",
       "minExecutorLevel": 4,
       "matchPlaceIds": [7711635737],
@@ -170,7 +140,6 @@
         "https://raw.githubusercontent.com/MrSxxo/data/refs/heads/main/ScriptEH"
       ],
       "tags": ["Free", "V.1.0", "LVL 4-8"],
-      "tagsEs": ["Gratis", "V.1.0", "NIVEL 4-8"],
       "stats": {
         "stability": "90%",
         "detectionRisk": "Low",
