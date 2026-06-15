@@ -172,29 +172,28 @@
       ]
     },
     "Abeery": {
-      "name": "Autoclick universal",
-      "displayName": "Abeery",
-      "desc": "Abeery is powerfull autoclick with customizable settings",
-      "icon": "",
-      "background": "#305df3",
-      "enabled": true,
-      "disabledReason": "",
-      "keySystem": "None",
-      "minExecutorLevel": 4,
-      "matchPlaceIds": [],
-      "urls": [],
-      "tags": ["Free"],
-      "stats": {
-        "stability": "90%",
-        "detectionRisk": "Low",
-        "updated": "",
-        "features": "7",
-        "status": "Online"
-      },
-      "changelog": [
-        {
-          "version": "V.1.0",
-          "notes": "A few hotfixes with the detection"
+  "name": "Abeery",
+  "desc": "Abeery is a powerful autoclicker with customizable settings.",
+  "icon": "rbxassetid://TU_ICON_ID",
+  "background": "#305df3",
+  "enabled": true,
+  "disabledReason": "",
+  "keySystem": "None",
+  "minExecutorLevel": 4,
+  "matchPlaceIds": [],
+  "urls": [],
+  "tags": ["Free"],
+  "stats": {
+    "stability": "90%",
+    "detectionRisk": "Low",
+    "updated": "",
+    "features": "7",
+    "status": "Online"
+  },
+  "changelog": [
+    {
+      "version": "V.1.0",
+      "notes": "A few hotfixes with the detection."
         }
       ]
     }
