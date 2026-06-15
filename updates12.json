@@ -11,7 +11,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [7711635737],
       "urls": [],
-      "tags": ["Paid", "V.3.82", "LVL 4-8"],
+      "tags": ["Paid"],
       "stats": {
         "stability": "98%",
         "detectionRisk": "Low",
@@ -22,22 +22,18 @@
       "changelog": [
         {
           "version": "V.3.82",
-          "date": "2d ago",
           "notes": "Fixed Aimlock prediction. Improved ESP render distance. Added Designate Nearest button."
         },
         {
           "version": "V.3.81",
-          "date": "5d ago",
           "notes": "Patched detection bypass for latest game update. Minor UI fixes."
         },
         {
           "version": "V.3.80",
-          "date": "12d ago",
           "notes": "Added Multi-Lock support. Stability improvements."
         },
         {
           "version": "V.3.79",
-          "date": "20d ago",
           "notes": "Initial public release."
         }
       ]
@@ -53,7 +49,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
-      "tags": ["Free", "V.1", "LVL 4-8"],
+      "tags": ["Free"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -74,7 +70,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
-      "tags": ["Free", "V.1", "LVL 4-8"],
+      "tags": ["Free"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -95,7 +91,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
-      "tags": ["Free", "V.1", "LVL 4-8"],
+      "tags": ["Free"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -116,7 +112,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [],
       "urls": [],
-      "tags": ["Free", "V.1", "LVL 4-8"],
+      "tags": ["Free"],
       "stats": {
         "stability": "-",
         "detectionRisk": "-",
@@ -139,7 +135,7 @@
       "urls": [
         "https://raw.githubusercontent.com/MrSxxo/data/refs/heads/main/ScriptEH"
       ],
-      "tags": ["Free", "V.1.0", "LVL 4-8"],
+      "tags": ["Free"],
       "stats": {
         "stability": "90%",
         "detectionRisk": "Low",
@@ -149,7 +145,7 @@
       },
       "changelog": []
     },
-        "Emergency-Hamburg-Thali": {
+    "Emergency-Hamburg-Thali": {
       "name": "Chocolatey",
       "desc": "The destructive version of Sentinel. (Chocolatey powered by Nykron.)",
       "icon": "rbxassetid://75852824369394",
@@ -160,7 +156,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [7711635737],
       "urls": [],
-      "tags": ["Paid", "V.3.1", "LVL 4-8"],
+      "tags": ["Paid"],
       "stats": {
         "stability": "45%",
         "detectionRisk": "High",
@@ -171,9 +167,35 @@
       "changelog": [
         {
           "version": "V.3.0",
-          "date": "193d ago",
           "notes": "Removed some features to make sure the script is stable to use."
- }
+        }
+      ]
+    },
+    "Abeery": {
+      "name": "Autoclick universal",
+      "displayName": "Abeery",
+      "desc": "Abeery is powerfull autoclick with customizable settings",
+      "icon": "",
+      "background": "#305df3",
+      "enabled": true,
+      "disabledReason": "",
+      "keySystem": "None",
+      "minExecutorLevel": 4,
+      "matchPlaceIds": [],
+      "urls": [],
+      "tags": ["Free"],
+      "stats": {
+        "stability": "90%",
+        "detectionRisk": "Low",
+        "updated": "",
+        "features": "7",
+        "status": "Online"
+      },
+      "changelog": [
+        {
+          "version": "V.1.0",
+          "notes": "A few hotfixes with the detection"
+        }
       ]
     }
   }
