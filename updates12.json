@@ -3,7 +3,7 @@
     "Emergency-Hamburg": {
       "name": "Sentinel",
       "desc": "Script for Emergency Hamburg. Aimlock, ESP, Fast grab, ETC. Sentinel powered by Nykron.",
-      "icon": "rbxassetid://75852824369394",
+      "icon": "rbxassetid://95251193918681",
       "background": "#2B1D00",
       "enabled": true,
       "disabledReason": "",
@@ -41,7 +41,7 @@
     "War-Tycoon": {
       "name": "Varkon",
       "desc": "Currently not working.",
-      "icon": "rbxassetid://78928627534817",
+      "icon": "rbxassetid://122917020222453",
       "background": "#543A0A",
       "enabled": false,
       "disabledReason": "Update pending.",
@@ -62,7 +62,7 @@
     "Combat-Initiation": {
       "name": "Khaos",
       "desc": "Currently not working.",
-      "icon": "rbxassetid://77717857050618",
+      "icon": "rbxassetid://104997740316518",
       "background": "#54160A",
       "enabled": false,
       "disabledReason": "Update pending.",
@@ -83,7 +83,7 @@
     "Dummys-vs-Noobs": {
       "name": "Fang",
       "desc": "Currently not working.",
-      "icon": "rbxassetid://112363873798639",
+      "icon": "rbxassetid://119705289824464",
       "background": "#5E5E5E",
       "enabled": false,
       "disabledReason": "Update pending.",
@@ -104,7 +104,7 @@
     "Cold-War": {
       "name": "Specter",
       "desc": "Currently not working.",
-      "icon": "rbxassetid://130305628402268",
+      "icon": "rbxassetid://91771495596010",
       "background": "#2F3B2A",
       "enabled": false,
       "disabledReason": "Update pending.",
@@ -174,7 +174,7 @@
     "Abeery": {
   "name": "Abeery",
   "desc": "Abeery is a powerful autoclicker with customizable settings.",
-  "icon": "rbxassetid://TU_ICON_ID",
+  "icon": "rbxassetid://89966662832167",
   "background": "#305df3",
   "enabled": true,
   "disabledReason": "",
