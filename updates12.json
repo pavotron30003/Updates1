@@ -11,7 +11,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [7711635737],
       "urls": [],
-      "tags": ["Paid"],
+      "tags": ["Vanilla oficcial"],
       "stats": {
         "stability": "98%",
         "detectionRisk": "Low",
@@ -135,7 +135,7 @@
       "urls": [
         "https://raw.githubusercontent.com/MrSxxo/data/refs/heads/main/ScriptEH"
       ],
-      "tags": ["Free"],
+      "tags": ["Public"],
       "stats": {
         "stability": "90%",
         "detectionRisk": "Low",
@@ -156,7 +156,7 @@
       "minExecutorLevel": 4,
       "matchPlaceIds": [7711635737],
       "urls": [],
-      "tags": ["Paid"],
+      "tags": ["Vanilla official"],
       "stats": {
         "stability": "45%",
         "detectionRisk": "High",
